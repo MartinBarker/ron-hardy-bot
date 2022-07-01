@@ -1,0 +1,7 @@
+urwid
+pysrt
+numpy
+pillow
+twython
+python-tumblpy
+imageio

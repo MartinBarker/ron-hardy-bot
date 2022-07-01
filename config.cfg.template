@@ -1,0 +1,7 @@
+[twitter]
+app_key: abc
+app_secret: abc
+oauth_token: abc
+oauth_token_secret: abc
+[discogs]
+token: abc
